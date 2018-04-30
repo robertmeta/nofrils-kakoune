@@ -36,7 +36,7 @@ face global MatchingChar rgb:ffffd7,black
 face global MenuBackground rgb:005f00,rgb:d7ffaf
 face global MenuForeground rgb:d7ffaf,rgb:005f00
 face global MenuInfo black
-face global PrimaryCursor black,rgb:d7afff+ui
+face global PrimaryCursor black,rgb:d7afff+u
 face global PrimarySelection black,rgb:ffd787
 face global Prompt black,rgb:d7afff
 face global SecondaryCursor black,rgb:d7afff
