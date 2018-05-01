@@ -27,7 +27,7 @@ face global title rgb:eeeeee
 # builtin faces
 face global Default rgb:eeeeee,rgb:262626
 face global BufferPadding rgb:6c6c6c,rgb:262626
-face global Error rgb:eeeeee,rgb:ff00000
+face global Error rgb:eeeeee,rgb:ff0000
 face global Information rgb:d7afff,rgb:000000
 face global LineNumberCursor rgb:000000,rgb:d7afff
 face global LineNumbers rgb:6c6c6c,default
