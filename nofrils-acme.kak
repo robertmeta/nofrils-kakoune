@@ -7,7 +7,7 @@ face global keyword rgb:000000
 face global meta rgb:000000
 face global module rgb:000000
 face global operator rgb:000000
-face global string rgb:000000,rgb:ffd7af
+face global string rgb:000000,rgb:eeeeee
 face global type rgb:000000
 face global value rgb:000000
 face global variable rgb:000000
