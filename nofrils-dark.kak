@@ -31,7 +31,7 @@ face global Error rgb:eeeeee,rgb:ff0000
 face global Information rgb:d7afff,rgb:000000
 face global LineNumberCursor rgb:000000,rgb:d7afff
 face global LineNumbers rgb:6c6c6c,default
-face global LineNumbersWrapped default,rgb:000000
+face global LineNumbersWrapped rgb:262626,rgb:262626
 face global MatchingChar rgb:ffffd7,rgb:000000
 face global MenuForeground rgb:000000,rgb:d7ffaf
 face global MenuBackground rgb:d7ffaf,rgb:000000
