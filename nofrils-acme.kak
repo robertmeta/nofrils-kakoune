@@ -43,7 +43,7 @@ face global SecondaryCursor rgb:000000,rgb:d7afff
 face global SecondarySelection rgb:000000,rgb:d7ffff
 face global StatusCursor rgb:d7ffff,rgb:8888cc
 face global StatusLine rgb:000000,rgb:eaffff
-face global StatusLineInfo rgb:000000,rgb:d7afff
+face global StatusLineInfo rgb:000000,rgb:eaffff
 face global StatusLineMode rgb:000000,rgb:eaffff
 face global StatusLineValue rgb:000000,rgb:d7afff
 face global Whitespace rgb:af8700,default
