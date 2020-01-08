@@ -29,7 +29,7 @@ face global Default rgb:000000,rgb:ffffd7
 face global BufferPadding rgb:af8700,rgb:ffffd7
 face global Error rgb:ffffff,rgb:ff0000
 face global Information rgb:000000,rgb:d7afff
-face global LineNumberCursor rgb:000000,rgb:eaffff
+face global LineNumberCursor rgb:000000,rgb:d7afff
 face global LineNumbers rgb:af8700,default
 face global LineNumbersWrapped rgb:ffffd7,rgb:ffffd7
 face global MatchingChar rgb:ffffd7,rgb:000000
